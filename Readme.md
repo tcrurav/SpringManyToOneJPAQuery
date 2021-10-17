@@ -18,7 +18,7 @@ https://www.baeldung.com/spring-data-jpa-query
 After that clone this project and try it.
 
 The Database is here:
-https://github.com/tcrurav/SpringManyToOneJPAQuery/blob/master/db_bicycleapi.sql
+https://github.com/tcrurav/SpringManyToOneJPAQuery/blob/master/database/db_bicycles_and_shops.sql
 
 The Postman Documentation is here:
 https://documenter.getpostman.com/view/17487582/UV5WDyH6
